@@ -13,7 +13,7 @@ This background has allowed me to build a solid foundation in everything from lo
 As part of my school projects, I served as both **Project Manager and Developer** for two WordPress websites for my institute: one is already live ([ilvegni.it](https://ilvegni.it)), and the second is currently a work in progress, scheduled for completion by May 2026. I am passionate about combining technical leadership with the practical needs of real-world projects. I'm also working towards building my own website!
 
 ### Professional Experience (Internships)
-I have actively expanded my skills through various internships (PCTO):
+I have actively expanded my skills through various internships (PCTO):<br>
 🎀 **Trust (Montepulciano):** Professional internship focusing on local tech infrastructure.<br>
 🎀 **42 Firenze:** An intensive coding experience within the 42 Network's innovative learning ecosystem. (mostly python)<br>
 🎀 **Barcelona (Upcoming):** I will soon be starting my third internship abroad in Spain to further enhance my international professional background.<br>
